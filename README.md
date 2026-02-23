@@ -1,1 +1,1 @@
-https://github.com/roscomvpn/custom-category
+https://github.com/roscomvpn/custom-category/tree/release
