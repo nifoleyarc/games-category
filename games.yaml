@@ -203,3 +203,4 @@ payload:
 
   # --- Добавленно вручную ---
   - PROCESS-NAME,Raft.exe
+  - PROCESS-NAME,REANIMAL.exe
