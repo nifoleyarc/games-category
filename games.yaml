@@ -201,6 +201,11 @@ payload:
   - PROCESS-NAME,GOGGalaxy.exe
   - PROCESS-NAME,playnite.exe
 
+  # --- Steam ---
+  - PROCESS-NAME,steam.exe
+  - PROCESS-NAME,steamwebhelper.exe
+  - PROCESS-NAME,steamservice.exe
+
   # --- Добавленно вручную ---
   - PROCESS-NAME,Raft.exe
   - PROCESS-NAME,REANIMAL.exe
